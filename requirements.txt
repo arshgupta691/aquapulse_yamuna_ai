@@ -1,0 +1,7 @@
+# AquaPulse: Yamuna AI  (Python 3.10 - 3.12 recommended for TensorFlow)
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+scikit-learn>=1.3
+tensorflow>=2.15
